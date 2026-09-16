@@ -1,42 +1,65 @@
-
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Yashika%20&fontSize=58&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Yashika%20Nanda&fontSize=58&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=700&lines=Electronics+%26+Communication+Engineering+Student;DSA+%7C+Full+Stack+%7C+AI%2FML;Building+%E2%80%A2+Learning+%E2%80%A2+Debugging;Turning+ideas+into+real+projects+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=9B5DE5&center=true&vCenter=true&width=720&lines=Electronics+%26+Communication+Engineering+Student;DSA+%7C+Full+Stack+%7C+AI%2FML;Hardware+%2B+Software+%2B+AI;Build+%E2%80%A2+Learn+%E2%80%A2+Debug+%E2%80%A2+Repeat" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Yashika01234&label=Profile%20Views&color=8B5CF6&style=for-the-badge" />
-
-<img src="https://img.shields.io/github/followers/Yashika01234?label=Followers&style=for-the-badge&color=blueviolet" />
+<img src="https://komarev.com/ghpvc/?username=Yashika01234&label=PROFILE%20VIEWS&color=ff69b4&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Yashika01234?label=FOLLOWERS&style=for-the-badge&color=9B5DE5" />
 
 </div>
 
 <br>
 
-## 🌷 About Me
+<div align="center">
 
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/231375ce-58a3-4c3b-85c8-44ea51d1318f" width="360" alt="Cute girl coding on laptop"/>
 
-🎓 Electronics & Communication Engineering student 
-💻 Exploring Software Development & Computer Science  
-🤖 Interested in AI, ML & Generative AI  
-🧩 Currently strengthening DSA & problem solving  
-🌐 Building Full Stack applications  
-🔌 Love projects where hardware meets software  
-🚀 Always learning and building something new  
+</div>
+
+<br>
+
+<div align="center">
+
+### 🌸 `a girl who codes, builds & occasionally fights bugs at 2 AM` 🌸
+
+</div>
+
+---
+
+## 💗 About Me
+
+<img align="right" width="250" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
+
+🎓 Electronics & Communication Engineering student
+
+💻 Exploring Software Development & Computer Science
+
+🤖 Interested in AI / ML / Generative AI
+
+🧩 Strengthening DSA & problem solving
+
+🌐 Building Full Stack applications
+
+🔌 Exploring Embedded Systems & Electronics
+
+🚀 Love turning ideas into real projects
+
+✨ Currently learning:
+
+`DSA → Full Stack → AI/ML → Generative AI`
 
 <br clear="right"/>
 
 ---
 
-## ✨ My Current Focus
+## 🎀 My Current Focus
 
 <div align="center">
 
-| 💻 Software | 🤖 AI / ML | 🔌 Electronics |
+| 💻 SOFTWARE | 🤖 AI / ML | 🔌 ELECTRONICS |
 |:---:|:---:|:---:|
 | DSA | Machine Learning | Embedded Systems |
 | Full Stack | Generative AI | Microprocessors |
@@ -46,64 +69,72 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
-### 👩‍💻 Languages
+### 🌷 Languages
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css,sql" />
+
 </p>
 
 ### 🌐 Web Development
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,fastapi,flask,tailwind" />
+
 </p>
 
 ### 🤖 AI / ML
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+
 <br><br>
-<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+
+<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+
 </p>
 
-### 🗄️ Tools & Databases
+### 🛠️ Tools & Databases
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,git,github,docker,vscode,postman" />
+
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🌸 Featured Projects
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-<h3>🛡️ CreatorShield AI</h3>
+### 🛡️ CreatorShield AI
 
 AI-powered creator safety & brand trust platform.
 
-🔍 Scam Detection  
+✨ Scam Detection  
 📄 Contract Analysis  
 🤝 Brand Trust Score  
 🤖 Gemini-powered analysis  
-🧠 AI-assisted insights  
+🧠 AI-assisted insights
 
-<b>Tech:</b>
-
-`React` `FastAPI` `SQLite` `Gemini API` `Hugging Face` `LangChain`
+`React` `FastAPI` `SQLite` `Gemini` `Hugging Face` `LangChain`
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>🚗 UrbanFlow</h3>
+### 🚗 UrbanFlow
 
 Smart parking & urban mobility prototype.
 
@@ -111,9 +142,7 @@ Smart parking & urban mobility prototype.
 🚘 Smart parking detection  
 🔌 Arduino integration  
 📺 LCD monitoring  
-🌐 Backend dashboard  
-
-<b>Tech:</b>
+🌐 Backend dashboard
 
 `Arduino` `RFID` `Python` `Flask` `FastAPI` `WebSocket`
 
@@ -125,16 +154,14 @@ Smart parking & urban mobility prototype.
 
 <td width="50%" valign="top">
 
-<h3>💧 Aqualytix</h3>
+### 💧 Aqualytix
 
 Smart water quality monitoring system.
 
 💧 TDS  
 🧪 pH  
 🌡️ Temperature  
-🌫️ Turbidity  
-
-<b>Hardware:</b>
+🌫️ Turbidity
 
 `Sensors` `Microcontroller` `LCD`
 
@@ -142,16 +169,14 @@ Smart water quality monitoring system.
 
 <td width="50%" valign="top">
 
-<h3>🏥 Hospital Management System</h3>
+### 🏥 Hospital Management System
 
 Web-based hospital management application.
 
-👨‍⚕️ Patient Management  
+👩‍⚕️ Patient management  
 📋 Records  
-📊 Data Handling  
-🗄️ Database Integration  
-
-<b>Tech:</b>
+📊 Data handling  
+🗄️ Database integration
 
 `HTML` `CSS` `JavaScript` `SQL`
 
@@ -166,19 +191,19 @@ Web-based hospital management application.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Arrays-%E2%9C%93-8B5CF6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Strings-%E2%9C%93-8B5CF6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Linked%20Lists-%E2%9C%93-8B5CF6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Trees-%E2%9C%93-8B5CF6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Graphs-%E2%9C%93-8B5CF6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Arrays-✓-ff69b4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Strings-✓-ff69b4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Linked%20Lists-✓-ff69b4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Trees-✓-ff69b4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Graphs-✓-ff69b4?style=for-the-badge"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Hashing-%E2%9C%93-EC4899?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Heaps-%E2%9C%93-EC4899?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Binary%20Search-%E2%9C%93-EC4899?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Sorting-%E2%9C%93-EC4899?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Dynamic%20Programming-Learning-F59E0B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Hashing-✓-9B5DE5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Heaps-✓-9B5DE5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Binary%20Search-✓-9B5DE5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Sorting-✓-9B5DE5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Dynamic%20Programming-Learning-f5a623?style=for-the-badge"/>
 
 </div>
 
@@ -200,21 +225,11 @@ Web-based hospital management application.
 
 ---
 
-## 🌌 Contribution Graph
+## 🐍 My Contribution Garden
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashika01234&theme=tokyo-night&hide_border=true&radius=16" width="95%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Yashika01234&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" width="90%"/>
+<img src="https://raw.githubusercontent.com/Yashika01234/Yashika01234/output/github-contribution-grid-snake.svg" width="95%" alt="GitHub contribution snake"/>
 
 </div>
 
@@ -225,10 +240,14 @@ Web-based hospital management application.
 <div align="center">
 
 ```text
-          🧩 DSA
+             🌱
+             │
+            DSA
              ↓
        🌐 Full Stack
              ↓
-        🤖 AI / ML
+         🤖 AI / ML
              ↓
       ✨ Generative AI
+             ↓
+          🚀 BUILD
