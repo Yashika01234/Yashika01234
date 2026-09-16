@@ -22,6 +22,13 @@
 ### 🌸 `a girl who codes, builds & occasionally fights bugs at 2 AM` 🌸
 
 </div>
+## ☕ Coding Fuel
+
+<div align="center">
+
+☕ **COFFEE** &nbsp;&nbsp; + &nbsp;&nbsp; 💻 **CODE** &nbsp;&nbsp; + &nbsp;&nbsp; 🐛 **DEBUG** &nbsp;&nbsp; = &nbsp;&nbsp; ✨ **IT WORKS!**
+
+</div>
 
 ---
 
