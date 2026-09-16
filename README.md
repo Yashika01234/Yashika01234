@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm YASHIKA</h1>
-<h3 align="center">Aspiring Software Engineer | AI/ML ENTHUSIAST |BACKEND ENGINEER | NSUT'28</h3>
+<h3 align="center">Aspiring Software Engineer | AI/ML ENTHUSIAST |BACKEND ENGINEER | ECE GRAD </h3>
 
 - 🔭 I’m currently working on **DSA & Competitive Programming**
 
