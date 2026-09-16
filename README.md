@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Yashika%20Nanda&fontSize=58&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
@@ -6,8 +7,9 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Yashika01234&label=PROFILE%20VIEWS&color=ff69b4&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/Yashika01234?label=FOLLOWERS&style=for-the-badge&color=9B5DE5" />
+<img src="https://komarev.com/ghpvc/?username=Yashika01234&label=PROFILE%20VIEWS&color=ff69b4&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/Yashika01234?label=FOLLOWERS&style=for-the-badge&color=9B5DE5"/>
 
 </div>
 
@@ -17,12 +19,6 @@
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/231375ce-58a3-4c3b-85c8-44ea51d1318f" width="360" alt="Cute girl coding on laptop"/>
 
-</div>
-
-<br>
-
-<div align="center">
-
 ### 🌸 `a girl who codes, builds & occasionally fights bugs at 2 AM` 🌸
 
 </div>
@@ -31,7 +27,7 @@
 
 ## 💗 About Me
 
-<img align="right" width="250" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
+<img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 🎓 Electronics & Communication Engineering student
 
@@ -69,13 +65,13 @@
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 ### 🌷 Languages
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css,sql" />
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css,sql"/>
 
 </p>
 
@@ -83,7 +79,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,fastapi,flask,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,fastapi,flask,tailwind"/>
 
 </p>
 
@@ -91,12 +87,14 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow"/>
 
 <br><br>
 
 <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 
 </p>
@@ -105,15 +103,16 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,git,github,docker,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,git,github,docker,vscode,postman"/>
 
 </p>
 
 ---
 
-## 🌸 Featured Projects
+# 🚀 Featured Projects
 
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
@@ -122,13 +121,16 @@
 
 AI-powered creator safety & brand trust platform.
 
-✨ Scam Detection  
+🔍 Scam Detection  
 📄 Contract Analysis  
 🤝 Brand Trust Score  
 🤖 Gemini-powered analysis  
 🧠 AI-assisted insights
 
-`React` `FastAPI` `SQLite` `Gemini` `Hugging Face` `LangChain`
+**Tech Stack**
+
+`React` `FastAPI` `SQLite`  
+`Gemini API` `Hugging Face` `LangChain`
 
 </td>
 
@@ -144,7 +146,10 @@ Smart parking & urban mobility prototype.
 📺 LCD monitoring  
 🌐 Backend dashboard
 
-`Arduino` `RFID` `Python` `Flask` `FastAPI` `WebSocket`
+**Tech Stack**
+
+`Arduino` `RFID` `Python`  
+`Flask` `FastAPI` `WebSocket`
 
 </td>
 
@@ -163,6 +168,8 @@ Smart water quality monitoring system.
 🌡️ Temperature  
 🌫️ Turbidity
 
+**Hardware**
+
 `Sensors` `Microcontroller` `LCD`
 
 </td>
@@ -173,43 +180,54 @@ Smart water quality monitoring system.
 
 Web-based hospital management application.
 
-👩‍⚕️ Patient management  
+👩‍⚕️ Patient Management  
 📋 Records  
-📊 Data handling  
-🗄️ Database integration
+📊 Data Handling  
+🗄️ Database Integration
+
+**Tech Stack**
 
 `HTML` `CSS` `JavaScript` `SQL`
 
 </td>
 
 </tr>
+
 </table>
 
 ---
 
-## 🧩 DSA Journey
+# 🧩 DSA Journey
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Arrays-✓-ff69b4?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Strings-✓-ff69b4?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Linked%20Lists-✓-ff69b4?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Trees-✓-ff69b4?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Graphs-✓-ff69b4?style=for-the-badge"/>
 
 <br><br>
 
 <img src="https://img.shields.io/badge/Hashing-✓-9B5DE5?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Heaps-✓-9B5DE5?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Binary%20Search-✓-9B5DE5?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Sorting-✓-9B5DE5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Dynamic%20Programming-Learning-f5a623?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Dynamic%20Programming-Learning-F59E0B?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -225,17 +243,7 @@ Web-based hospital management application.
 
 ---
 
-## 🐍 My Contribution Garden
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Yashika01234/Yashika01234/output/github-contribution-grid-snake.svg" width="95%" alt="GitHub contribution snake"/>
-
-</div>
-
----
-
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
 <div align="center">
 
