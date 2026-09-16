@@ -20,7 +20,7 @@
 
 <img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🎓 Electronics & Communication Engineering student  
+🎓 Electronics & Communication Engineering student and solved more than 250+ dsa problems 
 💻 Exploring Software Development & Computer Science  
 🤖 Interested in AI, ML & Generative AI  
 🧩 Currently strengthening DSA & problem solving  
