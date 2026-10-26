@@ -20,6 +20,8 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/231375ce-58a3-4c3b-85c8-44ea51d1318f" width="360" alt="Cute girl coding on laptop"/>
 
 ### 🌸 `a girl who codes, builds & occasionally fights bugs at 2 AM` 🌸
+<img width="480" height="832" alt="image" src="https://github.com/user-attachments/assets/7600b79a-5c4c-49aa-9917-8d7941a7bd1a" />
+
 
 </div>
 ## ☕ Coding Fuel
