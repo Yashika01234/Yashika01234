@@ -10,13 +10,14 @@
 
                                           <img src="https://komarev.com/ghpvc/?username=Yashika01234&label=PROFILE%20VIEWS&color=ff69b4&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/Yashika01234?label=FOLLOWERS&style=for-the-badge&color=9B5DE5"/><img width="332" height="127" alt="image" src="https://github.com/user-attachments/assets/6a5453eb-e49b-4d4b-ab3e-95f18913a693" />
+<img src="https://img.shields.io/github/followers/Yashika01234?label=FOLLOWERS&style=for-the-badge&color=9B5DE5"/>
 
 
 </div>
 
 <br>
-<img width="511" height="195" alt="image" src="https://github.com/user-attachments/assets/f1cd20e8-ea4e-40f1-ba2e-c45defd1cfd6" />
+<img width="511" height="195" alt="image" src="https://github.com/user-attachments/assets/f1cd20e8-ea4e-40f1-ba2e-c45defd1cfd6" /><img width="332" height="127" alt="image" src="https://github.com/user-attachments/assets/0219d7c2-0ba1-499a-a6f4-cd11a8762327" />
+
 
 
 <div align="center">
