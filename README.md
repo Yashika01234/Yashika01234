@@ -8,7 +8,7 @@
 
 <br>
 
-                                          <img src="https://komarev.com/ghpvc/?username=Yashika01234&label=PROFILE%20VIEWS&color=ff69b4&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Yashika01234&label=PROFILE%20VIEWS&color=ff69b4&style=for-the-badge"/>
 
 <img src="https://img.shields.io/github/followers/Yashika01234?label=FOLLOWERS&style=for-the-badge&color=9B5DE5"/>
 
