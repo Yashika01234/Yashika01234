@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Yashika%20Nanda&fontSize=58&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=9B5DE5&center=true&vCenter=true&width=720&lines=Electronics+%26+Communication+Engineering+Student;DSA+%7C+Full+Stack+%7C+AI%2FML;Hardware+%2B+Software+%2B+AI;Build+%E2%80%A2+Learn+%E2%80%A2+Debug+%E2%80%A2+Repeat" />
+  <img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&size=22&duration=2500&pause=800&color=9B5DE5&center=true&vCenter=true&width=720&lines=Electronics+%26+Communication+Engineering+Student;DSA+%7C+Full+Stack+%7C+AI%2FML;Hardware+%2B+Software+%2B+AI;Build+%E2%80%A2+Learn+%E2%80%A2+Debug+%E2%80%A2+Repeat" />
 
 <br>
 
