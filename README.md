@@ -1,5 +1,9 @@
  <div align="center">
+<div align="center">
 
+<img src="YOUR_HEART_IMAGE_URL" width="480" alt="Hard Work Never Betrays"/>
+
+</div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:9B5DE5,100:FF8FAB&height=220&section=header&text=Yashika%20Nanda&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Engineer%20%7C%20Developer%20%7C%20Problem%20Solver&descSize=17&descAlignY=58&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=750&lines=Electronics+%26+Communication+Engineering;DSA+%7C+Full+Stack+Development;AI%2FML+%7C+Generative+AI;Hardware+%2B+Software+%2B+Innovation;Build.+Break.+Debug.+Repeat." />
