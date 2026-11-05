@@ -1,274 +1,227 @@
+ <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:9B5DE5,100:FF8FAB&height=220&section=header&text=Yashika%20Nanda&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Engineer%20%7C%20Developer%20%7C%20Problem%20Solver&descSize=17&descAlignY=58&animation=fadeIn" width="100%"/>
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=750&lines=Electronics+%26+Communication+Engineering;DSA+%7C+Full+Stack+Development;AI%2FML+%7C+Generative+AI;Hardware+%2B+Software+%2B+Innovation;Build.+Break.+Debug.+Repeat." />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Yashika%20Nanda&fontSize=58&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
-                                       <img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&size=22&duration=2500&pause=800&color=9B5DE5&center=true&vCenter=true&width=720&lines=Electronics+%26+Communication+Engineering+Student;DSA+%7C+Full+Stack+%7C+AI%2FML;Hardware+%2B+Software+%2B+AI;Build+%E2%80%A2+Learn+%E2%80%A2+Debug+%E2%80%A2+Repeat" />
+<br/>
 
-<br>
-
-
-
-<img src="https://img.shields.io/github/followers/Yashika01234?label=FOLLOWERS&style=for-the-badge&color=9B5DE5"/>
-
-
-</div>
-
-<br>
-<img width="511" height="195" alt="image" src="https://github.com/user-attachments/assets/f1cd20e8-ea4e-40f1-ba2e-c45defd1cfd6" /><img width="332" height="127" alt="image" src="https://github.com/user-attachments/assets/0219d7c2-0ba1-499a-a6f4-cd11a8762327" />
-
-
-
-<div align="center">
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/231375ce-58a3-4c3b-85c8-44ea51d1318f" width="360" alt="Cute girl coding on laptop"/>
-
-### 🌸 `a girl who codes, builds & occasionally fights bugs at 2 AM` 🌸
-<img width="480" height="832" alt="image" src="https://github.com/user-attachments/assets/7600b79a-5c4c-49aa-9917-8d7941a7bd1a" />
-
-
-</div>
-## ☕ Coding Fuel
-
-<div align="center">
-
-☕ **COFFEE** &nbsp;&nbsp; + &nbsp;&nbsp; 💻 **CODE** &nbsp;&nbsp; + &nbsp;&nbsp; 🐛 **DEBUG** &nbsp;&nbsp; = &nbsp;&nbsp; ✨ **IT WORKS!**
+<img src="https://komarev.com/ghpvc/?username=Yashika01234&label=PROFILE+VIEWS&color=9B5DE5&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Yashika01234?label=FOLLOWERS&style=for-the-badge&color=EC4899" />
+<img src="https://img.shields.io/github/stars/Yashika01234?label=TOTAL%20STARS&style=for-the-badge&color=8B5CF6" />
 
 </div>
 
 ---
 
-## 💗 About Me
+## About Me
 
+<img align="right" width="260" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/231375ce-58a3-4c3b-85c8-44ea51d1318f" />
 
+I'm an **Electronics and Communication Engineering student** interested in building things at the intersection of software, intelligent systems and hardware.
 
-🎓 Electronics & Communication Engineering student
+- Engineering student exploring the world of technology.
+- Interested in Software Engineering and AI/ML.
+- Building full-stack applications and backend systems.
+- Exploring Generative AI and LLM-based applications.
+- Learning DSA and strengthening problem-solving skills.
+- Interested in embedded systems and digital electronics.
 
-💻 Exploring Software Development & Computer Science
+**Current learning path**
 
-🤖 Interested in AI / ML / Generative AI
-
-🧩 Strengthening DSA & problem solving
-
-🌐 Building Full Stack applications
-
-🔌 Exploring Embedded Systems & Electronics
-
-🚀 Love turning ideas into real projects
-
-✨ Currently learning:
-
-`DSA → Full Stack → AI/ML → Generative AI`
+`DSA` → `Full Stack` → `AI/ML` → `Generative AI`
 
 <br clear="right"/>
 
 ---
 
-## 🎀 My Current Focus
+## Areas of Interest
 
 <div align="center">
 
-| 💻 SOFTWARE | 🤖 AI / ML | 🔌 ELECTRONICS |
+| SOFTWARE ENGINEERING | AI & INTELLIGENCE | ELECTRONICS |
 |:---:|:---:|:---:|
-| DSA | Machine Learning | Embedded Systems |
-| Full Stack | Generative AI | Microprocessors |
-| Backend | LLM Applications | Communication Systems |
+| Data Structures & Algorithms | Machine Learning | Embedded Systems |
+| Full Stack Development | Generative AI | Microprocessors |
+| Backend Engineering | LLM Applications | Digital Electronics |
+| Database Systems | AI Integration | Communication Systems |
 
 </div>
 
 ---
 
-# 💻 Tech Stack
+## Tech Stack
 
-### 🌷 Languages
+### Programming Languages
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css,sql"/>
-
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css,mysql&perline=7" />
 </p>
 
-### 🌐 Web Development
+### Full Stack & Backend
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,fastapi,flask,tailwind"/>
-
+<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,fastapi,flask,tailwind&perline=7" />
 </p>
 
-### 🤖 AI / ML
+### AI / Machine Learning
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=5" />
+<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
-### 🛠️ Tools & Databases
+### Databases, Tools & Platforms
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,git,github,docker,vscode,postman"/>
-
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,git,github,docker,vscode,postman,arduino&perline=9" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## Featured Projects
 
 <table>
-
 <tr>
-
 <td width="50%" valign="top">
 
-### 🛡️ CreatorShield AI
+### CreatorShield AI
 
-AI-powered creator safety & brand trust platform.
+AI-powered creator safety and brand trust platform.
 
-🔍 Scam Detection  
-📄 Contract Analysis  
-🤝 Brand Trust Score  
-🤖 Gemini-powered analysis  
-🧠 AI-assisted insights
+- Scam Detection Engine
+- Contract Analysis
+- Brand Trust Score
+- AI-assisted insights
 
-**Tech Stack**
-
-`React` `FastAPI` `SQLite`  
-`Gemini API` `Hugging Face` `LangChain`
+**Stack:** React, FastAPI, SQLite, Gemini API, Hugging Face, LangChain
 
 </td>
-
 <td width="50%" valign="top">
 
-### 🚗 UrbanFlow
+### UrbanFlow
 
-Smart parking & urban mobility prototype.
+Smart parking and urban mobility prototype.
 
-📡 RFID authentication  
-🚘 Smart parking detection  
-🔌 Arduino integration  
-📺 LCD monitoring  
-🌐 Backend dashboard
+- RFID authentication
+- Smart parking detection
+- Arduino integration
+- LCD monitoring
+- Backend dashboard
 
-**Tech Stack**
-
-`Arduino` `RFID` `Python`  
-`Flask` `FastAPI` `WebSocket`
+**Stack:** Arduino, RFID, Python, Flask, FastAPI
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%" valign="top">
 
-### 💧 Aqualytix
+### Aqualytix
 
 Smart water quality monitoring system.
 
-💧 TDS  
-🧪 pH  
-🌡️ Temperature  
-🌫️ Turbidity
+- TDS measurement
+- pH monitoring
+- Temperature sensing
+- Turbidity measurement
 
-**Hardware**
-
-`Sensors` `Microcontroller` `LCD`
+**Stack:** Sensors, Microcontroller, Embedded Systems
 
 </td>
-
 <td width="50%" valign="top">
 
-### 🏥 Hospital Management System
+### Hospital Management System
 
 Web-based hospital management application.
 
-👩‍⚕️ Patient Management  
-📋 Records  
-📊 Data Handling  
-🗄️ Database Integration
+- Patient management
+- Medical records
+- Data handling
+- Database integration
 
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript` `SQL`
+**Stack:** HTML, CSS, JavaScript, SQL
 
 </td>
-
 </tr>
-
 </table>
 
 ---
 
-# 🧩 DSA Journey
+## Problem Solving & DSA
+
+Currently strengthening my problem-solving skills through structured DSA practice.
+
+**Topics I'm working on:**
+
+- Arrays, Strings and Hashing
+- Sorting and Binary Search
+- Linked Lists, Stacks and Queues
+- Trees and Binary Search Trees
+- Heaps and Graphs
+- Recursion and Backtracking
+- Greedy Algorithms
+- Dynamic Programming
+
+---
+
+## GitHub Analytics
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Arrays-✓-ff69b4?style=for-the-badge"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Yashika01234&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
 
-<img src="https://img.shields.io/badge/Strings-✓-ff69b4?style=for-the-badge"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashika01234&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
 
-<img src="https://img.shields.io/badge/Linked%20Lists-✓-ff69b4?style=for-the-badge"/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/Trees-✓-ff69b4?style=for-the-badge"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=Yashika01234&theme=tokyonight&hide_border=true&border_radius=15" />
 
-<img src="https://img.shields.io/badge/Graphs-✓-ff69b4?style=for-the-badge"/>
+<br/><br/>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/Hashing-✓-9B5DE5?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Heaps-✓-9B5DE5?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Binary%20Search-✓-9B5DE5?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Sorting-✓-9B5DE5?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Dynamic%20Programming-Learning-F59E0B?style=for-the-badge"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yashika01234&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
 ---
 
-# 📊 GitHub Stats
+## Currently Exploring
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yashika01234&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashika01234&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" height="180"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Yashika01234&theme=tokyonight&hide_border=true&border_radius=20" width="65%"/>
+| Learning | Direction |
+|:---|:---|
+| DSA | Problem-solving and coding interviews |
+| Full Stack | Scalable web applications and backend systems |
+| AI / ML | Machine learning and intelligent applications |
+| Generative AI | LLMs, RAG and AI-powered products |
+| Electronics | Embedded systems and hardware-software integration |
 
 </div>
 
 ---
 
-# 🌱 Currently Learning
+## Connect With Me
 
 <div align="center">
 
-```text
-             🌱
-             │
-            DSA
-             ↓
-       🌐 Full Stack
-             ↓
-         🤖 AI / ML
-             ↓
-      ✨ Generative AI
-             ↓
-          🚀 BUILD
+<a href="https://github.com/Yashika01234">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8FAB,50:9B5DE5,100:6C63FF&height=130&section=footer&text=HARD%20WORK%20NEVER%20BETRAYS&fontSize=25&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+
+**Building today. Better tomorrow.**
+
+</div>
