@@ -1,10 +1,7 @@
  <div align="center">
 <div align="center">
-<div align="center">
-  <img src="assets/hard-work-never-betrays.png"
-       width="520"
-       alt="Hard Work Never Betrays"/>
-</div>
+<img width="402" height="208" alt="image" src="https://github.com/user-attachments/assets/5f684ba8-9f27-4d97-aae7-a3d19a11ac42" />
+
 
 </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:9B5DE5,100:FF8FAB&height=220&section=header&text=Yashika%20Nanda&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Engineer%20%7C%20Developer%20%7C%20Problem%20Solver&descSize=17&descAlignY=58&animation=fadeIn" width="100%"/>
